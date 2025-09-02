@@ -15,20 +15,5 @@ You can download the PDF directly from the website once deployed:
 - Choosing the correct ITR form
 - Frequently asked questions
 
-## 🚀 How to Host this Guide Publicly
-1. Clone this repository.
-2. Add your PDF (`India_Tax_Filing_Guide_FY2024-25_AY2025-26.pdf`).
-3. Enable **GitHub Pages**:
-   - Go to **Settings → Pages**.
-   - Under "Source", select `main` branch and `/ (root)` folder.
-   - Save and GitHub will publish your site.
-4. Your guide will be available at:
-   - `https://<your-username>.github.io/<repository-name>/`
-
-## 📈 SEO Tips
-- Use descriptive filenames for the PDF.
-- Share the link on social platforms for backlinks.
-- Submit your GitHub Pages site to **Google Search Console** for faster indexing.
-
 ## ⚠️ Disclaimer
 This guide is for **informational purposes only**. Always consult a certified tax advisor for personalized guidance.
